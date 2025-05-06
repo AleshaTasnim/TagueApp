@@ -38,11 +38,6 @@ Before you begin, make sure you have the following installed on your machine:
 
 - **Git** (to clone the repo)  
 - **Node.js & npm** (for package management)  
-- **Expo CLI** (for running the React Native app)
-  
-  ```bash
-  npm install --global expo-cli
-  ```
 - **Visual Studio Code** (as the IDE)  
   > Recommended extensions:
   > - Tailwind CSS IntelliSense
@@ -53,6 +48,12 @@ Before you begin, make sure you have the following installed on your machine:
   
   - **iOS:** https://apps.apple.com/us/app/expo-go/id982107779
   - **Android:** https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_GB
+ 
+  - IF THE APP fails to run due to missing expo cli (should not happen), you may run the following command:
+  
+  ```bash
+  npm install --global expo-cli
+  ```
 
 ## How to Run the Project Locally
 1. **Navigate to your chosen directory**
@@ -96,6 +97,7 @@ Before you begin, make sure you have the following installed on your machine:
    
    - For iOS devices, go the camera app and scan the QR code
    - For Android devices, scan the QR code inside the app
+   - Follow on screen instructions, and additional commands will be shown in the terminal
 9. **End server:**
 
    Select
