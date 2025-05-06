@@ -1,4 +1,4 @@
-# Tague - A Fashion-focused Social Media App
+# Tague - A Fashion-focused Social Media App 
 
 ## Project Overview
 **Tague** is a fashion-based social media platform designed to allow users to share their outfits, explore styles, and discover new fashion items seamlessly. The platform aims to bridge the gap between fashion inspiration and purchase by integrating product links directly into posts, enabling users to transition from discovering outfits to purchasing featured items effortlessly.
