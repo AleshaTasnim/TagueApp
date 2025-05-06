@@ -72,7 +72,7 @@ Before you begin, make sure you have the following installed on your machine:
 4. **Open command prompt and change into Tague Directory**;
    
    ```bash
-   $ cd FinalProject/Tague
+   $ cd TagueApp/Tague
    ```
    **or if you are already in FinalProject Directory**
    
