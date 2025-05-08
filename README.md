@@ -5,15 +5,35 @@
 
 This project is part of my final year undergraduate project at Queen Mary University of London, under the supervision of Madeline Ann Hamilton.
 
+## ANDROID COMPATABILITY NOTICE
+Due to a recent Expo SDK update that occurred just days before the submission deadline, the code in this repository is no longer compatible with Android when run locally. This change has impacted the app's ability to function as expected on Android devices.
+
+You can still run the app on Android using a downgraded version of Expo Go:
+
+1. Visit: https://expo.dev/go
+2. Download Expo Go for SDK 52 (scroll down on the page).
+3. Install the APK on your Android device by following the on-screen instructions.
+4. Use the designated QR code provided below to launch the app.
+
+Note: Running the app through a local development server will not work on Android with the current codebase. Please use the method above.
+
+As for iOS users, no action is required. You can continue using the most recent version of Expo Go to run the app.
+
+Apologies for the inconvenience. Due to the timing of the SDK update, there was not sufficient time to fully adapt and retest the app for Android.
+
 ## Try It Now?
 1. **Download the Expo Go app** on your mobile device:
    - **iOS:** https://apps.apple.com/us/app/expo-go/id982107779
    - **Android:** https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_GB
-2. **Scan the QR code** below with Expo Go:
+2. **IOS USERS ONLY: Scan the QR code** below with Expo Go:
 
    <img src="https://github.com/user-attachments/assets/5e9b6edd-f488-4f9a-9126-9ad6b034b5ee" alt="Scan to Try the App" width="300" />
 
    - For iOS devices, go the camera app and scan the QR code
+3. **ANDROID USERS ONLY: Scan the QR code** below with Expo Go:
+
+   <img src="https://github.com/user-attachments/assets/330ae5d3-878a-4b90-894f-afa678faec15" alt="Scan to Try the App" width="300" />
+
    - For Android devices, scan the QR code inside the app
 
 Once scanned, **Tague** will load instantly on your device! 
